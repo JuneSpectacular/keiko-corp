@@ -835,7 +835,7 @@ footer .copyright a{
 		border-bottom: 1px solid #389965;
 	}
 
-	header nav li:first-child a{
+	.firstchild{
 		border-top: 1px solid #389965;
 	}
 
